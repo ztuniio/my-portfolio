@@ -221,8 +221,6 @@ The AI is instructed to:
 
 # Screenshots
 
-> Add at least three screenshots here.
-
 ## Home Page
 
 ![Home](screenshots/home.png)
