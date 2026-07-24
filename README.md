@@ -156,10 +156,6 @@ The application is fully responsive and optimized for:
 
 # AI Feature
 
-## AI Model
-
-Google Gemini API
-
 ## Purpose
 
 The AI analyzes resumes and provides intelligent recommendations to improve ATS compatibility and increase interview chances.
@@ -189,7 +185,6 @@ The AI is instructed to:
 
 ## AI
 
-- Google Gemini API
 - Google AI Studio
 
 ## Development Tools
