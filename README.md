@@ -223,15 +223,15 @@ The AI is instructed to:
 
 ## Home Page
 
-![Home](screenshots/home.png)
+![Home](screenshots/home.jpeg)
 
 ## AI CV Scanner
 
-![AI Scanner](screenshots/scanner.png)
+![AI Scanner](screenshots/scanner.jfif)
 
 ## Order Form
 
-![Order Form](screenshots/order.png)
+![Order Form](screenshots/order.jpeg)
 
 ---
 
