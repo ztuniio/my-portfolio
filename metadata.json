@@ -1,0 +1,6 @@
+{
+  "name": "HireSignal",
+  "description": "ATS-optimized CVs that get you hired - Professional CV and Career services for Pakistan and the Gulf.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
